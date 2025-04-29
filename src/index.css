@@ -1,0 +1,6 @@
+@import "tailwindcss";
+body {
+    direction: rtl;
+    margin: 0;
+    font-family: "Cairo", sans-serif;
+}
